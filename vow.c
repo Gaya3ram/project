@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int c,l,r,a,e,i,o,u,A,E,I,O,U;
+char c,l,r,a,e,i,o,u,A,E,I,O,U;
 printf("enter the sentence");
 scanf("%c",&c);
 l=(c ==a||c == e|| c ==i| c == o|| c ==u); 
